@@ -10,8 +10,23 @@
     "test": "jest"
   },
   "dependencies": {
+    "@eva-design/eva": "^2.2.0",
+    "@react-native-community/datetimepicker": "^8.2.0",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/native-stack": "^7.2.0",
+    "@ui-kitten/components": "^5.3.1",
+    "iconsax-react-native": "^0.0.8",
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "react-native-gifted-charts": "^1.4.47",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-radio-buttons-group": "^3.1.0",
+    "react-native-safe-area-context": "^5.0.0",
+    "react-native-screens": "^4.4.0",
+    "react-native-svg": "^15.10.1",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
